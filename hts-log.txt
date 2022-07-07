@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Jul 2022 08:47:13 at https://vbucksgenerator.lol/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vbucksgenerator.lol/ -O1 "C:\Users\Andani Mukwevho\Desktop\fortnite template\Fortnite gen\fortnite template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:47:30	Warning: 	File not parsed, looks like binary: https://vbucksgenerator.lol/fonts/glyphicons-halflings-regular.html
+08:47:30	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Andani Mukwevho/Desktop/fortnite template/Fortnite gen/fortnite template/vbucksgenerator.lol/fonts/glyphicons-halflings-regular.html
+08:47:31	Warning: 	File not parsed, looks like binary: https://vbucksgenerator.lol/webfonts/fa-brands-400.html
+08:47:31	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Andani Mukwevho/Desktop/fortnite template/Fortnite gen/fortnite template/vbucksgenerator.lol/webfonts/fa-brands-400.html
+08:47:31	Warning: 	File not parsed, looks like binary: https://vbucksgenerator.lol/webfonts/fa-regular-400.html
+08:47:31	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Andani Mukwevho/Desktop/fortnite template/Fortnite gen/fortnite template/vbucksgenerator.lol/webfonts/fa-regular-400.html
+08:47:31	Warning: 	File not parsed, looks like binary: https://vbucksgenerator.lol/webfonts/fa-solid-900.html
+08:47:31	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Andani Mukwevho/Desktop/fortnite template/Fortnite gen/fortnite template/vbucksgenerator.lol/webfonts/fa-solid-900.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 51 links scanned, 50 files written (3723028 bytes overall) [2169555 bytes received at 114187 bytes/sec], 2582501 bytes transferred using HTTP compression in 33 files, ratio 39%, 10.2 requests per connection
+(No errors, 8 warnings, 0 messages)
